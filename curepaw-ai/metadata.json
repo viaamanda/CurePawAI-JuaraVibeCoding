@@ -1,0 +1,6 @@
+{
+  "name": "CurePaw AI",
+  "description": "An interactive and playful AI Pet Wellness Assistant to monitor your pet's health, feeding, and mental wellbeing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
